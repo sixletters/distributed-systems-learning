@@ -1,0 +1,17 @@
+title: Distributed Systems Learning
+description: A public learning log for distributed systems, storage, streaming, and performance engineering — with applied ML systems as a supporting track.
+author: Harris Maung
+
+# Update these with your GitHub username and repo name before enabling GitHub Pages
+# url: "https://sixletters.github.io"
+# baseurl: "/distributed-systems-learning"
+
+theme: minima
+minima:
+  skin: classic
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
